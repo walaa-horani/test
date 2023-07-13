@@ -2,9 +2,7 @@
 Clone the repository:
 git clone 'https://github.com/walaa-horani/test.git'
 
-2-Navigate to the project directory:
 
-cd test
 
 3- Install dependencies
 npm install
